@@ -1,0 +1,14 @@
+
+build:
+  version: "1.0"
+
+
+
+cards:
+  message: "Welcome to EazyBank Card related local APIs "
+  contactDetails:
+    name: "John Dev"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

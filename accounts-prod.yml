@@ -1,0 +1,22 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to eazybank accounts microservices Production API"
+  contactDetails:
+    name: "Eman"
+    email: "Eman@gmail.com"
+  onCallSupport:
+    - 0009878777
+    - 0098788888
+
+
+
+
+
+logging:
+  level:
+    org.springframework.web: DEBUG
+    org.springframework.web.servlet.DispatcherServlet: DEBUG
+    org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG
+

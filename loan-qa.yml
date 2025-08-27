@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to eazybank loans microservices QA API"
+  contactDetails:
+    name: "Johans"
+    email: "Johans@gmail.com"
+  onCallSupport:
+    - 0009999999
+    - 009333333

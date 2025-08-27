@@ -1,0 +1,24 @@
+
+
+
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to eazybank loans microservices local API"
+  contactDetails:
+    name: "Zuhier Al-Zuabi"
+    email: "Zuabiz1979@gmail.com"
+  onCallSupport:
+    - 0009878777
+    - 0098788888
+
+
+
+
+
+logging:
+  level:
+    org.springframework.web: DEBUG
+    org.springframework.web.servlet.DispatcherServlet: DEBUG
+    org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG
+
