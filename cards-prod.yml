@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank Card related PROD APIs "
+  message: "Welcome to EazyBank Card related PROD API "
   contactDetails:
     name: "EMAN Dev"
     email: "Momo@eazybank.com"
