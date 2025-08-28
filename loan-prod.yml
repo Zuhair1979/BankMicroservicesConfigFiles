@@ -3,10 +3,11 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Eazybank loans microservices PROD API"
+  message: "Welcome to Eazybank loans microservices PROD Api"
   contactDetails:
     name: "Sabina"
     email: "Sabina@gmail.com"
   onCallSupport:
     - 0009999999
     - 009333333
+
