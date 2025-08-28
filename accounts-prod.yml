@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to eazybank accounts microservices Production API"
+  message: "Welcome to eazybank accounts microservices PROD API"
   contactDetails:
     name: "Eman"
     email: "{cipher}dfe33554db1eb7f681473ea87ec77ad1a30aada43cff748c60c75a50587aff06"
@@ -19,6 +19,7 @@ logging:
     org.springframework.web: DEBUG
     org.springframework.web.servlet.DispatcherServlet: DEBUG
     org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG
+
 
 
 
